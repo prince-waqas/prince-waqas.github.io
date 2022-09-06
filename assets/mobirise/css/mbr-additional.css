@@ -2359,6 +2359,37 @@ a {
 .cid-tgxjHtUebs .mbr-section-btn {
   text-align: left;
 }
+.cid-tgDqC9khQ2 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-tgDqC9khQ2 h3 {
+  text-align: center;
+}
+.cid-tgDqC9khQ2 .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-tgDqC9khQ2 .mbr-content-text {
+  color: #767676;
+}
+.cid-tgDqC9khQ2 .panel-item {
+  background: #ffffff;
+}
+.cid-tgDqC9khQ2 .card {
+  word-wrap: break-word;
+}
+.cid-tgDqC9khQ2 .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-tgDqC9khQ2 .fadeInUp {
+  -webkit-animation-name: noAnimation;
+  animation-name: noAnimation;
+  -webkit-transform-origin: center bottom;
+  transform-origin: center bottom;
+}
 .cid-tgxjHugkz4 {
   padding-top: 0rem;
   padding-bottom: 1rem;
@@ -2468,85 +2499,6 @@ a {
 }
 .cid-tgxjHuRxET H3 {
   text-align: center;
-}
-.cid-tgxjHzMlCd {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-tgxjHzMlCd .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-tgxjHzMlCd .container-table {
-  margin: 0 auto;
-}
-.cid-tgxjHzMlCd .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-tgxjHzMlCd .dataTables_wrapper {
-  display: block;
-}
-.cid-tgxjHzMlCd .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-tgxjHzMlCd .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-tgxjHzMlCd table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
-  margin-bottom: 0;
-}
-.cid-tgxjHzMlCd table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-tgxjHzMlCd table th:hover {
-  background: #cccccc;
-  color: #000000;
-}
-.cid-tgxjHzMlCd table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-tgxjHzMlCd table.table {
-  background: #ffffff;
-}
-.cid-tgxjHzMlCd .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-tgxjHzMlCd .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-tgxjHzMlCd .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-tgxjHzMlCd .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-tgxjHzMlCd .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-tgxjHzMlCd .dataTables_filter {
-    text-align: center;
-  }
-  .cid-tgxjHzMlCd .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
 }
 .cid-tgxjHz0Gkg {
   padding-top: 0rem;
