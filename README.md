@@ -1,1 +1,1 @@
-# prince-waqas.github.io
+# pwaqas.github.io
